@@ -8,7 +8,6 @@
   	<module>email</module>
   	<module>print</module>
   	<module>display</module>
-  	<module>update</module>
   </modules>
   <dependencies>
   	<dependency>
