@@ -18,6 +18,7 @@ public class App {
 		logger.warn("This is warn : ");
 		logger.error("This is error : ");
 		logger.fatal("This is fatal : ");
+		logger.fatal("This is fatal 2: ");
 	}
 
 }
